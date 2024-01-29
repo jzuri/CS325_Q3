@@ -29,7 +29,7 @@ int main(){
  
     default:
 //Change the line below 2nd - print statement 
-        cout << "Error! operator is not correct";
+        cout << "Congrats! Here is your gold medal!";
     }
  
     return 0;
